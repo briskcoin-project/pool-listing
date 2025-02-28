@@ -1,1 +1,38 @@
-
+{
+    "coinbase_tags": {
+      "/nodeStratum/": {
+        "name": "Mining Pool",
+        "link": "http://miningpool.briskcoin.org"
+      },
+      "Miningcore": {
+        "name": "Miningcore",
+        "link": "Miningcore"    
+      },
+      "/mined by poolsexy_solo/": {
+        "name": "PoolsexySolo",
+        "link": "PoolsexySolo"    
+      },
+      "/mined by splns pool.sexy/": {
+        "name": "Poolsexy",
+        "link": "Poolsexy"    
+      },
+      "koinium.com": {
+        "name": "Koinium",
+        "link": "koinium.com"    
+      }
+    },
+      "payout_addresses": {
+        "B8sp34FQ36pZ4MoShp6qUB23AnGrG4Doya": {
+          "name": "Mining Pool",
+          "link": "http://miningpool.briskcoin.org",
+        "B8sp34FQ36pZ4MoShp6qUB23AnGrG4Doya": {
+            "name": "KriptoKyng",
+            "link": "https://kriptokyng.com"
+        }
+      }
+    },
+    "unknown_miner_payout_addresses": {
+          "somePayoutAddress": {
+          }
+      }
+  }
