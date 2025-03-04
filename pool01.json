@@ -2,7 +2,7 @@
     "coinbase_tags": {
       "/nodeStratum/": {
         "name": "Mining Pool",
-        "link": "http://miningpool.briskcoin.org1"
+        "link": "http://miningpool.briskcoin.org"
       },
       "Miningcore": {
         "name": "Miningcore",
