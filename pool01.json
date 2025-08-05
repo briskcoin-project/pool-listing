@@ -43,6 +43,26 @@
         "NitroPool": {
         "name": "NitroPool",
         "link": "https://nitropool.net"    
+      },
+        "ashampool with Retro Mike Tech": {
+        "name": "Ashampool",
+        "link": "ashampool"    
+      },
+        "TheSatoshi-BriskCoin-Pool": {
+        "name": "TheSatoshi-Pool",
+        "link": "TheSatoshi-Pool"    
+      },
+        "ashampool.org": {
+        "name": "Ashampool",
+        "link": "Ashampool"    
+      },
+        "BriskCoin-Pool": {
+        "name": "BriskCoin-Pool",
+        "link": "BriskCoin-Pool"    
+      },
+        "CALAJA MINER": {
+        "name": "CALAJA",
+        "link": "CALAJA"    
       }
     },
       "payout_addresses": {
