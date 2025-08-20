@@ -63,6 +63,10 @@
         "CALAJA MINER": {
         "name": "CALAJA",
         "link": "CALAJA"    
+      },
+        "zergpool.com": {
+        "name": "Zergpool",
+        "link": "zergpool.com"    
       }
     },
       "payout_addresses": {
